@@ -1,0 +1,19 @@
+# Local credentials
+ems_config.json
+
+# Captures and raw responses
+*.pcap
+*.pcapng
+*.cap
+*.bin
+
+# Exported business data and caches
+sales-*.csv
+sales-*.json
+sales-*.xlsx
+tmp/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
